@@ -7,7 +7,7 @@
 - Elegir un hosting para Postgres (seguramente Heroku o ElephantSQL)
 - Definir las tablas y relaciones
 
-- Escribir el código backend en Flask para
+- Escribir el código backend en Flask: https://flask-socketio.readthedocs.io/en/latest/
 -- Guardar los datos en la base de datos
 -- Trasmitir la información del juego con el frontend usando socket.io
 
@@ -22,7 +22,7 @@
 Pendiente:
 
 - ¿Tabla de juegos/partidas con columna de estado (pendiente?, abandonado antes de empezar, abandonado en partida, completado)?
-- ¿Cómo se conecta un jugador a una partida? No como la crea, sino cómo se une
+- ¿Cómo se conecta un jugador a una partida? No como la crea, sino cómo se une... Pss, hay "Rooms"
 - ¿Es necesario, además de las partidas, hacer una tabla de colchonetas (lugare donde sse puede hacer la partida)/
 - ¿Generar un código con el que puedas unirte a una partida?
 - ¿Nivel de cada usuario (cinturon de pingüino) por cantidad de partidas ganadas? ¿Por puntos acumulados? ¿¡PUNTOS!?
