@@ -18,6 +18,11 @@
 -- Métricas/gráficas de partidas ganadas, perdidas y abandonadas, filtrando por 
 -- Posibilidad de definir antes de combate qué estrategia utilizará para medir después los ressultados
 
+Lógica del juego:
+- Cartas de Fuego, Agua y Nieve (pro + tierra y aire)
+- Cada carta tiene un nivel del 1 al 10 (pro + 11-15)
+- Cada carta puede tener encantamiento (además de su función normal, habilita o deshabilita otra función en el juego)
+
 
 Pendiente:
 
@@ -26,3 +31,6 @@ Pendiente:
 - ¿Es necesario, además de las partidas, hacer una tabla de colchonetas (lugare donde sse puede hacer la partida)/
 - ¿Generar un código con el que puedas unirte a una partida?
 - ¿Nivel de cada usuario (cinturon de pingüino) por cantidad de partidas ganadas? ¿Por puntos acumulados? ¿¡PUNTOS!?
+- ¿Compramos niveles 10+ y encantamientos con puntos...?
+- ¿Conseguir puntos para cambiar por "dinero"...? ¿Es necesario?
+- Pierdes puntos o dinero por abandonar la partida, ganas por perder y ganas más por ganar.
